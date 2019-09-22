@@ -5,12 +5,12 @@
   },
   "platformlist": [
     {
-      "name": "爱奇艺",
-      "url": "https://m.iqiyi.com/"
-    },
-    {
       "name": "腾讯视频",
       "url": "https://m.v.qq.com/"
+    },
+	 {
+      "name": "爱奇艺",
+      "url": "https://m.iqiyi.com/"
     },
     {
       "name": "芒果",
