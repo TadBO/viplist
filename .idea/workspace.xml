@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/viplist.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="57" column="21" lean-forward="true" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+            <state relative-caret-position="105">
+              <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -28,8 +28,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>http://2gty.com/apiurl/yun.php?url=</find>
-      <find>http://qtv.soshane.com/ko.php?url=</find>
       <find>http://www.52jiexi.com/tong.php?url=</find>
       <find>http://www.52jiexi.com/yun.php?url=</find>
       <find>http://www.662820.com/xnflv/index.php?url=</find>
@@ -58,6 +56,8 @@
       <find>http://www.sonimei.cn/?url=</find>
       <find>http://aikan-tv.com/?url=</find>
       <find>http://q.z.vip.totv.72du.com/?url=</find>
+      <find>无名小站</find>
+      <find>http://jiexi.92fz.cn/player/vip.php?url=</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -106,6 +106,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -133,12 +134,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569468136128</updated>
-      <workItem from="1569468137355" duration="831000" />
+      <workItem from="1569468137355" duration="1693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="831000" />
+    <option name="totallyTimeSpent" value="1693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -169,8 +170,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/viplist.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="57" column="21" lean-forward="true" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+        <state relative-caret-position="105">
+          <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
         </state>
       </provider>
     </entry>

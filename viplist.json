@@ -47,16 +47,28 @@
       "url": ""
     },
     {
-      "name": "原地址-去广告",
-      "url": "http://vip.wandhi.com/api.php?url="
-    },
-    {
       "name": "无敌解析",
       "url": "https://z1.m1907.cn/?jx="
     },
     {
+      "name": "无名小站1",
+      "url": "http://www.90go.org/yun.php?url="
+    },
+    {
       "name": "无名小站",
       "url": "http://www.sfsft.com/admin.php?url="
+    },
+    {
+      "name": "默认一",
+      "url": "http://jx.ejiafarm.com/dy.php?url="
+    },
+    {
+      "name": "默认二",
+      "url": "http://jiexi.071811.cc/jx.php?url="
+    },
+    {
+      "name": "默认三",
+      "url": "http://api.lequgirl.com/?url="
     },
     {
       "name": "百域阁视频",
@@ -109,10 +121,6 @@
     {
       "name": "品优解析-可播但广告",
       "url": "http://api.pucms.com/xnflv/?url="
-    },
-    {
-      "name": "5月-3",
-      "url": "http://api.wlzhan.com/sudu/?url="
     },
     {
       "name": "高端解析",
