@@ -43,8 +43,20 @@
   ],
   "list": [
     {
-      "name": "原地址-（提示：本软件免费无广告,不要花钱购买）",
+      "name": "原地址",
       "url": ""
+    },
+    {
+      "name": "原地址-去广告",
+      "url": "http://vip.wandhi.com/api.php?url="
+    },
+    {
+      "name": "无敌解析",
+      "url": "https://z1.m1907.cn/?jx="
+    },
+    {
+      "name": "无名小站",
+      "url": "http://www.sfsft.com/admin.php?url="
     },
     {
       "name": "百域阁视频",
@@ -75,14 +87,6 @@
       "url": "http://jiexi.071811.cc/jx2.php?url="
     },
     {
-      "name": "5月-23",
-      "url": "http://api.baiyug.cn/vip/index.php?url="
-    },
-    {
-      "name": "9月-2",
-      "url": "http://jqaaa.com/jx.php?url="
-    },
-    {
       "name": "4.21-3-慢",
       "url": "https://yooomm.com/index.php?url="
     },
@@ -107,20 +111,8 @@
       "url": "http://api.pucms.com/xnflv/?url="
     },
     {
-      "name": "5月-1",
-      "url": "http://www.82190555.com/index/qqvod.php?url="
-    },
-    {
-      "name": "5月-2",
-      "url": "http://jiexi.92fz.cn/player/vip.php?url="
-    },
-    {
       "name": "5月-3",
       "url": "http://api.wlzhan.com/sudu/?url="
-    },
-    {
-      "name": "5月-22",
-      "url": "http://www.82190555.com/index/qqvod.php?url="
     },
     {
       "name": "高端解析",
@@ -147,10 +139,6 @@
       "url": "http://wwwhe1.177kdy.cn/4.php?pass=1&url="
     },
     {
-      "name": "4.21-5",
-      "url": "http://jiexi.92fz.cn/player/vip.php?url="
-    },
-    {
       "name": "万能接口3---",
       "url": "http://vip.jlsprh.com/index.php?url="
     },
@@ -171,32 +159,8 @@
       "url": "http://7cyd.com/vip/?url="
     },
     {
-      "name": "5月-25",
-      "url": "http://2gty.com/apiurl/yun.php?url="
-    },
-    {
       "name": "5月-26",
       "url": "http://v.2gty.com/apiurl/yun.php?url="
-    },
-    {
-      "name": "5月-14-以下不可播",
-      "url": "http://api.xyingyu.com/?url="
-    },
-    {
-      "name": "5月-15-XX",
-      "url": "http://api.greatchina56.com/?url="
-    },
-    {
-      "name": "5月-16",
-      "url": "http://api.baiyug.vip/index.php?url="
-    },
-    {
-      "name": "5月-17",
-      "url": "http://api.visaok.net/?url="
-    },
-    {
-      "name": "5月-18",
-      "url": "http://jx.618g.com/?url="
     },
     {
       "name": "5月-20",
@@ -249,10 +213,6 @@
     {
       "name": "9月-4",
       "url": "http://jx.du2.cc/?url="
-    },
-    {
-      "name": "4.21-2",
-      "url": "http://qtv.soshane.com/ko.php?url="
     },
     {
       "name": "9月-3",
@@ -312,75 +272,47 @@
     },
     {
       "name": "玩的嗨",
-      "url": "http://tv.wandhi.com/go.html?url=",
-      "title": "综合接口，一键VIP*** 更新可用【作者mark zhang】脚本的接口",
-      "intab": 0
+      "url": "http://tv.wandhi.com/go.html?url="
     },
     {
       "name": "最惠买",
-      "url": "http://www.zhmdy.top/index.php?zhm_jx=",
-      "title": "懒人专用***脚本接口",
-      "intab": 0
+      "url": "http://www.zhmdy.top/index.php?zhm_jx="
     },
     {
       "name": "噗噗电影",
-      "url": "http://www.pupudy.com/splay.php?play=",
-      "title": "综合接口，破解全网VIP视频会员-去广告【作者ttmsjx】脚本的接口",
-      "intab": 0
+      "url": "http://www.pupudy.com/splay.php?play="
     },
     {
       "name": "搜你妹",
-      "url": "http://www.sonimei.cn/?url=",
-      "title": "综合接口，VIP视频*** 更新可用【作者sonimei134】脚本的接口",
-      "intab": 0
+      "url": "http://www.sonimei.cn/?url="
     },
     {
       "name": "ODFLV",
-      "url": "http://aikan-tv.com/?url=",
-      "title": "不稳定，广告过滤软件可能有影响",
-      "intab": 1
+      "url": "http://aikan-tv.com/?url="
     },
     {
       "name": "石头解析",
-      "url": "https://jiexi.071811.cc/jx.php?url=",
-      "title": "手动点播放",
-      "intab": 1
+      "url": "https://jiexi.071811.cc/jx.php?url="
     },
     {
       "name": "乐乐云",
-      "url": "https://660e.com/?url=",
-      "title": "乐乐云，未知效果",
-      "intab": 1
+      "url": "https://660e.com/?url="
     },
     {
       "name": "石头解析",
-      "url": "https://jiexi.071811.cc/jx.php?url=",
-      "title": "手动点播放",
-      "intab": 1
-    },
-    {
-      "name": "无名小站",
-      "url": "http://www.sfsft.com/admin.php?url=",
-      "title": "无名小站同源",
-      "intab": 1
+      "url": "https://jiexi.071811.cc/jx.php?url="
     },
     {
       "name": "VIP看看",
-      "url": "http://q.z.vip.totv.72du.com/?url=",
-      "title": "更换线路成功率会提高",
-      "intab": 1
+      "url": "http://q.z.vip.totv.72du.com/?url="
     },
     {
       "name": "无名小站2",
-      "url": "http://www.wmxz.wang/video.php?url=",
-      "title": "转圈圈就换线路",
-      "intab": 1
+      "url": "http://www.wmxz.wang/video.php?url="
     },
     {
       "name": "人人发布",
-      "url": "http://v.renrenfabu.com/jiexi.php?url=",
-      "title": "综合，多线路",
-      "intab": 0
+      "url": "http://v.renrenfabu.com/jiexi.php?url="
     },
     {
       "name": "纯净线路1",
@@ -393,10 +325,6 @@
     {
       "name": "纯净线路3",
       "url": "https://jx.hezeshi.net/ce/jlexi.php?url="
-    },
-    {
-      "name": "无敌解析",
-      "url": "https://z1.m1907.cn/?jx="
     },
     {
       "name": "无名解析",
