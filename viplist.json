@@ -31,14 +31,6 @@
     {
       "name": "电影天堂",
       "url": "http://m.btbtdy.me/"
-    },
-    {
-      "name": "52影院",
-      "url": "http://www.52xsba.com/"
-    },
-    {
-      "name": "4080新视觉影院",
-      "url": "http://www.yy4080.com/"
     }
   ],
   "list": [
@@ -51,44 +43,20 @@
       "url": "https://z1.m1907.cn/?jx="
     },
     {
-      "name": "纯净线路",
-      "url": "http://api.smq1.com/?url="
+      "name": "解析1",
+      "url": "https://api.927.la/vip/?url="
     },
     {
-      "name": "推荐使用一",
-      "url": "http://api.ledboke.com/?url="
+      "name": "解析2（切换路线可用）",
+      "url": "http://api.xiuyao.me/jx/?url="
     },
     {
-      "name": "推荐使用二",
-      "url": "http://jx.du2.cc/jx6.php?url="
+      "name": "解析3",
+      "url": "http://api.ledboke.com/vip/?url="
     },
     {
-      "name": "推荐使用三",
-      "url": "http://api.xyingyu.com/?url="
-    },
-    {
-      "name": "推荐使用四",
-      "url": "http://api.greatchina56.com/?url="
-    },
-    {
-      "name": "推荐使用五",
-      "url": "http://jx.618g.com/?url="
-    },
-    {
-      "name": "推荐使用六",
-      "url": "http://api.baiyug.vip/index.php?url="
-    },
-    {
-      "name": "推荐使用七",
-      "url": "http://yun.mt2t.com/yun?url="
-    },
-    {
-      "name": "推荐使用八",
-      "url": "http://y.mt2t.com/lines?url="
-    },
-    {
-      "name": "推荐使用九",
-      "url": "http://www.dgua.xyz/webcloud/?url="
+      "name": "解析4",
+      "url": "http://jx.x-99.cn/api.php?id="
     },
     {
       "name": "无名小站（部分可用）",
